@@ -1,1 +1,1 @@
-# Disney
+# Disney-rules for Clash
