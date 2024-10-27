@@ -1,4 +1,5 @@
 payload:
+  - '+.res-1.cdn.office.net'
   - '+.disney-plus.net'
   - '+.20thcenturystudios.com.au'
   - '+.20thcenturystudios.com.br'
